@@ -1,0 +1,3 @@
+Meu nome é Pedro Tavares.
+Sou estudante do curso de Bacharelado em Ciência da Computação na UFU.
+Estou realizando o curso de Git e GitHub do DataLab.

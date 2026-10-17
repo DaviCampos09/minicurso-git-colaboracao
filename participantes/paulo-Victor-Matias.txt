@@ -1,0 +1,3 @@
+Apelido: PV
+Curso: Sistemas de Informação
+MiniCurso de Git e GitHub para nivelamento do programa de trainee do DataLab. 

@@ -1,0 +1,4 @@
+Nome: Simao Baptista Sunga
+Curso: BCC
+--------------------------
+Minicurso: aprendendo sobre branches e git flow

@@ -1,0 +1,3 @@
+olá! me chamo júlia e sou do curso de ciência de dados e estatística!
+
+apesar de eu nao ter o costume de usar o git, aprendi muita coisa e acho que as aulas tem sido bem bacanas :-)

@@ -1,0 +1,3 @@
+Nome: Nicole Gaia
+Curso: Ciência da Computação
+Mensagem: Minicurso Git & GitHub Aula 2
